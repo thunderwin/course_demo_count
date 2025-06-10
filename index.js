@@ -9,7 +9,7 @@ let balance = 0;
 // 空行，为了让代码看起来更清楚
 
 // 调用addIncome函数，往余额里加1000块钱，备注是'工资'
-addIncome(balance, 1000, '工资')
+// addIncome(balance, 1000, '工资')
 // 调用addExpense函数，从余额里减去998块钱，备注是'买衣服'
-addExpense(balance, 998, '买衣服')
+// addExpense(balance, 998, '买衣服')
 
